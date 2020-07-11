@@ -1,0 +1,67 @@
+
+
+.profile img {
+     border-radius: 50%;
+     width: 200px;
+    }
+
+h1 {
+    color: #e79cc2;
+}
+p {
+    font-family: Architects Daughter;
+    color: #336d88;
+    font-size: 20px ;
+}
+li {
+    font-family: Raleway;
+    font-size: 30px;
+    color: #1d1b38;
+}
+
+
+h2 {
+    color: #1d1b38 ;
+    font-size: 40px ;
+    font-family: Merienda One;
+}
+.profile{
+   height: 600px;
+    text-align: center;
+    font-size: 40px;
+    font-family: Architects Daughter;
+    background-color: #1d1b38 ;
+    /* padding: 25vh; */
+   
+}
+.profile p {
+    color: #e79cc2;
+}
+.achievements {
+    /* height: 500px; */
+    text-align: center;
+    border: 2vh;
+    padding: 5px 20px;
+    background-color: #f6bed6;
+}
+
+.skills , .work {
+    height: 200px;
+    text-align: center;
+    padding: 20vh;
+     background-color: #e79cc2;
+}
+.education {
+    /* height: 200px; */
+    text-align: center;
+    padding: 20px 50px ;
+    background-color: #f6bed6;
+}
+
+/* .work {
+    height: 200px;
+    text-align: center;
+    padding: 20vh;
+    background-color: #e79cc2;
+}
+ */
