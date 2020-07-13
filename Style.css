@@ -8,6 +8,10 @@
 h1 {
     color: #e79cc2;
 }
+
+body {
+    align-content: center;
+}
 p {
     font-family: Architects Daughter;
     color: #336d88;
@@ -18,7 +22,11 @@ li {
     font-size: 30px;
     color: #1d1b38;
 }
-
+table {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
 
 h2 {
     color: #1d1b38 ;
@@ -26,9 +34,10 @@ h2 {
     font-family: Merienda One;
 }
 .profile{
-   height: 600px;
+    padding: 50px;
+   height: 400px;
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     font-family: Architects Daughter;
     background-color: #1d1b38 ;
     /* padding: 25vh; */
@@ -51,17 +60,11 @@ h2 {
     padding: 20vh;
      background-color: #e79cc2;
 }
-.education {
+.education, .contact {
     /* height: 200px; */
     text-align: center;
     padding: 20px 50px ;
     background-color: #f6bed6;
 }
 
-/* .work {
-    height: 200px;
-    text-align: center;
-    padding: 20vh;
-    background-color: #e79cc2;
-}
- */
+
